@@ -34,7 +34,8 @@
     "react": "~17.0.2",
     "react-dom": "~17.0.2",
     "react-is": "~17.0.2",
-    "react-test-renderer": "~17.0.2"
+    "react-test-renderer": "~17.0.2",
+    "@storybook/addon-bench@0.0.2": "patch:@storybook/addon-bench@npm:0.0.2#.yarn/patches/@storybook-addon-bench-npm-0.0.2-9731df8933.patch"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
