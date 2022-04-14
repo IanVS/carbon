@@ -70,7 +70,7 @@ const stories = glob
 
 module.exports = {
   addons: [
-    '@storybook/addon-bench',
+    // '@storybook/addon-bench',
     {
       name: '@storybook/addon-essentials',
       options: {

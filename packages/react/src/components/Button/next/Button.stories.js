@@ -59,7 +59,7 @@ export default {
 };
 
 export const _Default = (args) => {
-  return <Button {...args}>Button</Button>;
+  return <Button {...args}>5Button</Button>;
 };
 
 export const Secondary = (args) => {
