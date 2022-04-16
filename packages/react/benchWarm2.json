@@ -1,0 +1,12 @@
+{
+  "start": {
+    "time": {
+      "managerWebpack": 0,
+      "previewWebpack": 1800,
+      "managerRender": 5466,
+      "previewRender": 7266,
+      "storyRender": 14352
+    },
+    "size": {}
+  }
+}
