@@ -42,6 +42,8 @@ const Button = React.forwardRef(function Button(
   },
   ref
 ) {
+  console.log(Date.now() / 1000);
+
   const tooltipRef = useRef(null);
   const prefix = usePrefix();
 
@@ -133,7 +135,7 @@ const Button = React.forwardRef(function Button(
       ...otherProps,
     },
     assistiveText,
-    children,
+    `5${children}`,
     buttonImage
   );
 
