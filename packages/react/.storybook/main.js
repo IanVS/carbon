@@ -89,6 +89,7 @@ module.exports = {
   },
   features: {
     previewCsfV3: true,
+    storyStoreV7: true,
   },
   framework: '@storybook/react',
   stories,
