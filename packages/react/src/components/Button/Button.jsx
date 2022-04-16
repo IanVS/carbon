@@ -133,7 +133,7 @@ const Button = React.forwardRef(function Button(
       ...otherProps,
     },
     assistiveText,
-    children,
+    `${children}`,
     buttonImage
   );
 
