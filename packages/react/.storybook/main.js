@@ -85,9 +85,6 @@ module.exports = {
     '@storybook/addon-storysource',
     '@storybook/addon-a11y',
   ],
-  core: {
-    builder: 'webpack5',
-  },
   features: {
     previewCsfV3: true,
   },
