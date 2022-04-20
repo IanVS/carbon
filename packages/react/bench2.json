@@ -1,0 +1,37 @@
+{
+  "start": {
+    "time": {
+      "managerWebpack": 44000,
+      "previewWebpack": 55000,
+      "managerRender": 59496,
+      "previewRender": 60440,
+      "storyRender": 61026
+    },
+    "size": {}
+  },
+  "build": { "time": { "build": 72708 }, "size": {} },
+  "browse": {
+    "time": {
+      "managerRender": 660,
+      "previewRender": 1239,
+      "storyRender": 1913
+    },
+    "size": {
+      "total": 18880,
+      "manager": {
+        "total": 2313,
+        "main": 5,
+        "runtime": 4,
+        "vendors": 2304,
+        "uiDll": 0
+      },
+      "preview": {
+        "total": 7958,
+        "main": 5273,
+        "runtime": 4,
+        "vendors": 2681,
+        "docsDll": 0
+      }
+    }
+  }
+}
